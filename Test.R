@@ -1,0 +1,3 @@
+print ("LOL")
+
+print ("MEGALOL")
